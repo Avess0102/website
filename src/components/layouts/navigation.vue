@@ -1,7 +1,7 @@
 <template>
     <nav  class="navbar sticky shadow-xl flex-wrap content-around text-center p-4 items-center flex bg-bluegray-800 font-mono">
 
-        <div  class="md:flex flex-1 text-xl text-white font-bold self-center tracking-wider cursor-pointer " id="logo">THE NAV</div>
+        <div  class="md:flex flex-1 text-xl text-white font-bold self-center tracking-wider cursor-pointer " id="logo">&lt;SGGSIE&T></div>
 
         <div class="flex-1 " >
             <transition

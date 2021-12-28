@@ -12,7 +12,7 @@
             </template>
             <template v-slot:one>
                 <div class="text-white  font-semibold">
-                        <p>CodeChef ZHCET Chapter is the programming community run and maintained by the official chapter leaders, from Zakir Husain College of Engineering and Technology and mentored by CodeChef. </p>
+                        <p>CodeChef SGGSIE&T Chapter is the programming community run and maintained by the official chapter leaders, from Shri Guru Gobind Singhji Institute Of Engineering And Technology, Nanded and mentored by CodeChef. </p>
                         <br>
                         <p>We conduct different activities and engagements to achieve the mission, such as: </p> 
     
@@ -26,7 +26,7 @@
             <template v-slot:two>
                 <div class="text-white font-semibold text-left">
                     <p class="mb-3 ">Our mission is to build a robust competitive programming 
-                        culture at ZHCET and help students become better problem 
+                        culture at SGGSIE&T and help students become better problem 
                         solvers, foster learning environment and focus on development 
                         of all individuals in terms of their technical knowledge.
                     </p>

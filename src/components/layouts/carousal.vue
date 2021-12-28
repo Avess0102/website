@@ -18,7 +18,7 @@
            </div>
 
            <button class="m-5 font-mono bg-transparent hover:bg-blue-500 text-white font-bold text-xl hover:text-white py-2 px-4 border-4 border-blue-500 hover:border-transparent rounded-2xl">
-               become a member
+               Become a member
            </button>
 
         </div>
